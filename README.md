@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daksh-kesarwani-9173691b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daksh-kesarwani-9173691b0" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/daksh.kesarwani.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/daksh.kesarwani.7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dakshkesarwanij1" target="blank"><img align =center" 
-  src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="https://www.hackerrank.com/dakshkesarwanij1" height="30" width="40"/></a>
+  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEUNFB4A6mT///8AAAANEh4NABwA62QNABoADBgEDhoNABg0OD8ImkgA72YFv1UnLDIAABC4ubvCw8Xv7/AAAAj29vaPkZOcnaAAABIKdjsHnkmztLW+v8ESGSLs8eGCAAAA/0lEQVR4nO3cOQ7CMBBAUcDsENaEnftfkwYapkEWCsR6r80U/nIVR3GvBwAAAAAAAAAAAAAAAAAAANCeYZ62ljdLm3d1nKrDUJq9no0yTVoKvDeDd4eQmI5haH96BZ6rfo7xpZ3E6SKsfbBNoXAXp9bPTZxcqnGOajXvSuEybw8VKlSoUKFChQoVKlSoUKFChQoVKlSoUOHvC68puJVV2OyD+HGj04WfUahQoUKFChUqVKhQoUKFCrteWP47fvnnNOWftSlUqFChQoUKFSpUqFChQoUKFSpUqFChwqzCP/8fv/w7Fcq/F+Mb/vxuEwAAAAAAAAAAAAAAAAAAAKDTHoDCYDr8qkOBAAAAAElFTkSuQmCC" alt="https://www.hackerrank.com/dakshkesarwanij1" height="30" width="40"/></a>
 <a href="https://www.hackerrank.com/dakshkesarwanij1" alt="daksh kesarwani" height="30" width="40" /></a>
 
 </p>
