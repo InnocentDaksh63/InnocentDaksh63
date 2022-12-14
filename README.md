@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Working at **[Anudip Foundation](https://www.anudip.org/)**
 
-- 🌱 I’m currently learning **Data Structures, ReactJS.**
+- 🌱 I’m currently learning **ReactJS.**
 
 - 🌱 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), SQL and Javascript.**
 
