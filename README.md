@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently Working at **[Anudip Foundation](https://www.anudip.org/)**
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **Django Python Framework**
 
-- 🌱 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), SQL and Javascript.**
+- 🌱 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), ReactJS(Frontend javascript library) SQL, CSS, HTML and Javascript.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
