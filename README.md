@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working at **[Anudip Foundation](https://www.anudip.org/)**
+- 🔭 I’m currently Working as a Software Engineer Intern at **[Anudip Foundation](https://www.anudip.org/)**
 
-- 🌱 I’m currently learning **Django Python Framework**
+- 🌱 I’m currently learning **NodeJs**
 
 - 🌱 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), ReactJS(Frontend javascript library) SQL, CSS, HTML and Javascript.**
 
