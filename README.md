@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working as a Software Engineer Intern at **[Anudip Foundation](https://www.anudip.org/)**
+- 🔭 I’m currently Working as a Software Engineer at **[Anudip Foundation](https://www.anudip.org/)**
 
 - 🌱 I’m currently learning **Generative AI**
 
